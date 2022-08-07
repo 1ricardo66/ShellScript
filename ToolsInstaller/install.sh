@@ -44,7 +44,7 @@ sudo apt install remmina remmina-plugin-rdp remmina-plugin-secret -y
 
 echo "Baixando Winbox..."
 
-wget https://mt.lv/winbox64 -P ~/Downloads/
+wget https://download.mikrotik.com/winbox/3.37/winbox64.exe -P ~/Downloads/
 
 echo "Baixando Opera..."
 
