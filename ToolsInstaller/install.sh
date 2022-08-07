@@ -32,7 +32,7 @@ wget https://download.anydesk.com/linux/anydesk_6.2.0-1_amd64.deb -P ~/Downloads
 
 echo "Instalando Anydesk"
 
-dpkg -i ~/Downloads/anydesk_6.2.0-1_amd64.deb
+sudo dpkg -i ~/Downloads/anydesk_6.2.0-1_amd64.deb
 
 
 
@@ -52,7 +52,7 @@ wget https://download3.operacdn.com/pub/opera/desktop/89.0.4447.83/linux/opera-s
 
 echo "Instalando Opera..."
 
-dpkg -i ~/Downloads/opera-stable_89.0.4447.83_amd64.deb
+sudo dpkg -i ~/Downloads/opera-stable_89.0.4447.83_amd64.deb
 
 
 echo "Baixando VS code..."
@@ -61,7 +61,7 @@ wget https://az764295.vo.msecnd.net/stable/da76f93349a72022ca4670c1b84860304616a
 
 echo "Instalando VS code"
 
-dpkg -i ~/Downloads/code_1.70.0-1659589288_amd64.deb
+sudo dpkg -i ~/Downloads/code_1.70.0-1659589288_amd64.deb
 
 echo "Baixando Wireshark..."
 
