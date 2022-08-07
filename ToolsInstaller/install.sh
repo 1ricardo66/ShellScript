@@ -75,7 +75,7 @@ wget https://autoupdate.termius.com/linux/Termius.deb -P ~/Downloads/
 
 echo "Instalando Termius"
 
-dpkg -i ~/Downloads/Termius.deb
+sudo dpkg -i ~/Downloads/Termius.deb
 
 echo "Baixando Wireshark..."
 
