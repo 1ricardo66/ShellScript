@@ -1,0 +1,1 @@
+wine ~/Downloads/winbox64.exe
