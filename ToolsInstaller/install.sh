@@ -52,7 +52,7 @@ wget https://download3.operacdn.com/pub/opera/desktop/89.0.4447.83/linux/opera-s
 
 echo "Instalando Opera..."
 
-dpkg - i ~/Downloads/opera-stable_89.0.4447.83_amd64.deb
+dpkg -i ~/Downloads/opera-stable_89.0.4447.83_amd64.deb
 
 
 echo "Baixando VS code..."
